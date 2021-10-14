@@ -1,0 +1,6 @@
+-   id: linkchecker-markdown
+    name: linkchecker-markdown
+    description: 'checks that all internal links are generated in the markdown'
+    entry: linkcheckmd
+    language: python
+    types: [python]
